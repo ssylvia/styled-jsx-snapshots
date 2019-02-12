@@ -8,22 +8,35 @@
   "private": true,
   "scripts": {
     "build": "rimraf build && tsc --emitDeclarationOnly && babel src --out-dir build --extensions \".ts,.tsx\" --copy-files --source-maps",
-    "storybook": "start-storybook -p 9001 -c .storybook"
+    "storybook": "start-storybook -p 9001 -c .storybook",
+    "test": "jest"
   },
   "dependencies": {
     "@zeit/next-typescript": "^1.1.1",
+    "classnames": "^2.2.6",
     "next": "^8.0.0",
     "react": "^16.8.1",
-    "react-dom": "^16.8.1"
+    "react-dom": "^16.8.1",
+    "react-intl": "^2.8.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.2.3",
     "@babel/core": "^7.2.2",
+    "@storybook/addon-storyshots": "^4.1.11",
     "@storybook/react": "^4.1.11",
+    "@types/jest": "^24.0.3",
     "@types/react": "^16.8.2",
+    "@types/storybook__react": "^4.0.0",
     "@types/styled-jsx": "^2.2.7",
     "babel-loader": "^8.0.5",
+    "babel-plugin-require-context-hook": "^1.0.0",
+    "jest": "^24.1.0",
+    "react-test-renderer": "^16.8.1",
+    "react-testing-library": "^5.8.0",
     "rimraf": "^2.6.3",
     "typescript": "^3.3.3"
+  },
+  "resolutions": {
+    "next/styled-jsx": "3.1.2"
   }
 }

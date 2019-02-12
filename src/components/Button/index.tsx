@@ -1,12 +1,13 @@
 import React, { ReactNode } from "react";
 
 interface ButtonProps {
+  onClick?: () => void;
   children: ReactNode;
 }
 
 export default (props: ButtonProps) => {
   return (
-    <button type="button" className="button">
+    <button type="button" className="button" onClick={props.onClick}>
       {props.children}
       <style jsx>{`
         .button {

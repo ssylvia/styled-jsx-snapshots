@@ -1,0 +1,277 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Button with text 1`] = `
+<button
+  className="jsx-2958708226 button"
+  type="button"
+>
+  Hello Button
+</button>
+`;
+
+exports[`Storyshots IconClose Default 1`] = `
+<div
+  className="STORYBOOK-STYLE-WRAPPER"
+  style={
+    Object {
+      "fontSize": "3em",
+    }
+  }
+>
+  <span
+    className="jsx-3164519701 icon icon-close"
+  >
+    <svg
+      className="jsx-3164519701"
+      viewBox="0 0 32 32"
+    >
+      <path
+        className="jsx-3164519701"
+        d="M16.707 16l10.607 10.606-.708.707L16 16.707 5.394 27.313l-.708-.707L15.293 16 4.686 5.394l.708-.707L16 15.293 26.606 4.687l.708.707z"
+      />
+    </svg>
+  </span>
+</div>
+`;
+
+exports[`Storyshots IconClose With Class 1`] = `
+<div
+  className="STORYBOOK-STYLE-WRAPPER"
+  style={
+    Object {
+      "fontSize": "3em",
+    }
+  }
+>
+  <span
+    className="jsx-3164519701 icon icon-close test-class"
+  >
+    <svg
+      className="jsx-3164519701"
+      viewBox="0 0 32 32"
+    >
+      <path
+        className="jsx-3164519701"
+        d="M16.707 16l10.607 10.606-.708.707L16 16.707 5.394 27.313l-.708-.707L15.293 16 4.686 5.394l.708-.707L16 15.293 26.606 4.687l.708.707z"
+      />
+    </svg>
+  </span>
+</div>
+`;
+
+exports[`Storyshots IconClose With Color 1`] = `
+<div
+  className="STORYBOOK-STYLE-WRAPPER"
+  style={
+    Object {
+      "fontSize": "3em",
+    }
+  }
+>
+  <span
+    className="jsx-1501022322 icon icon-close"
+  >
+    <svg
+      className="jsx-1501022322"
+      viewBox="0 0 32 32"
+    >
+      <path
+        className="jsx-1501022322"
+        d="M16.707 16l10.607 10.606-.708.707L16 16.707 5.394 27.313l-.708-.707L15.293 16 4.686 5.394l.708-.707L16 15.293 26.606 4.687l.708.707z"
+      />
+    </svg>
+  </span>
+</div>
+`;
+
+exports[`Storyshots IconClose With a11y Title 1`] = `
+<div
+  className="STORYBOOK-STYLE-WRAPPER"
+  style={
+    Object {
+      "fontSize": "3em",
+    }
+  }
+>
+  <span
+    className="jsx-3164519701 icon icon-close"
+  >
+    <svg
+      className="jsx-3164519701"
+      viewBox="0 0 32 32"
+    >
+      <title
+        className="jsx-3164519701"
+      >
+        Title
+      </title>
+      <path
+        className="jsx-3164519701"
+        d="M16.707 16l10.607 10.606-.708.707L16 16.707 5.394 27.313l-.708-.707L15.293 16 4.686 5.394l.708-.707L16 15.293 26.606 4.687l.708.707z"
+      />
+    </svg>
+  </span>
+</div>
+`;
+
+exports[`Storyshots IconSearch Default 1`] = `
+<div
+  className="STORYBOOK-STYLE-WRAPPER"
+  style={
+    Object {
+      "fontSize": "3em",
+    }
+  }
+>
+  <span
+    className="jsx-3164519701 icon icon-search"
+  >
+    <svg
+      className="jsx-3164519701"
+      viewBox="0 0 32 32"
+    >
+      <path
+        className="jsx-3164519701"
+        d="M29.385 27.97l-8.643-8.642a10 10 0 1 0-1.414 1.414l8.643 8.643zM7.343 18.656a8 8 0 1 1 11.314 0 8 8 0 0 1-11.314 0z"
+      />
+    </svg>
+  </span>
+</div>
+`;
+
+exports[`Storyshots IconSearch With Class 1`] = `
+<div
+  className="STORYBOOK-STYLE-WRAPPER"
+  style={
+    Object {
+      "fontSize": "3em",
+    }
+  }
+>
+  <span
+    className="jsx-3164519701 icon icon-search test-class"
+  >
+    <svg
+      className="jsx-3164519701"
+      viewBox="0 0 32 32"
+    >
+      <path
+        className="jsx-3164519701"
+        d="M29.385 27.97l-8.643-8.642a10 10 0 1 0-1.414 1.414l8.643 8.643zM7.343 18.656a8 8 0 1 1 11.314 0 8 8 0 0 1-11.314 0z"
+      />
+    </svg>
+  </span>
+</div>
+`;
+
+exports[`Storyshots IconSearch With Color 1`] = `
+<div
+  className="STORYBOOK-STYLE-WRAPPER"
+  style={
+    Object {
+      "fontSize": "3em",
+    }
+  }
+>
+  <span
+    className="jsx-1501022322 icon icon-search"
+  >
+    <svg
+      className="jsx-1501022322"
+      viewBox="0 0 32 32"
+    >
+      <path
+        className="jsx-1501022322"
+        d="M29.385 27.97l-8.643-8.642a10 10 0 1 0-1.414 1.414l8.643 8.643zM7.343 18.656a8 8 0 1 1 11.314 0 8 8 0 0 1-11.314 0z"
+      />
+    </svg>
+  </span>
+</div>
+`;
+
+exports[`Storyshots IconSearch With a11y Title 1`] = `
+<div
+  className="STORYBOOK-STYLE-WRAPPER"
+  style={
+    Object {
+      "fontSize": "3em",
+    }
+  }
+>
+  <span
+    className="jsx-3164519701 icon icon-search"
+  >
+    <svg
+      className="jsx-3164519701"
+      viewBox="0 0 32 32"
+    >
+      <title
+        className="jsx-3164519701"
+      >
+        Title
+      </title>
+      <path
+        className="jsx-3164519701"
+        d="M29.385 27.97l-8.643-8.642a10 10 0 1 0-1.414 1.414l8.643 8.643zM7.343 18.656a8 8 0 1 1 11.314 0 8 8 0 0 1-11.314 0z"
+      />
+    </svg>
+  </span>
+</div>
+`;
+
+exports[`Storyshots SearchBox Default 1`] = `
+<div
+  className="jsx-288524608 "
+>
+  <label
+    className="jsx-288524608"
+    htmlFor="storybook-searchbox"
+  >
+    Search
+  </label>
+  <span
+    className="jsx-3164519701 icon icon-search"
+  >
+    <svg
+      className="jsx-3164519701"
+      viewBox="0 0 32 32"
+    >
+      <path
+        className="jsx-3164519701"
+        d="M29.385 27.97l-8.643-8.642a10 10 0 1 0-1.414 1.414l8.643 8.643zM7.343 18.656a8 8 0 1 1 11.314 0 8 8 0 0 1-11.314 0z"
+      />
+    </svg>
+  </span>
+  <input
+    autoComplete="on"
+    className="jsx-288524608"
+    id="storybook-searchbox"
+    onChange={[Function]}
+    placeholder="Search Stories"
+    required={true}
+    type="text"
+    value=""
+  />
+  <button
+    aria-label="Clear search"
+    className="jsx-288524608"
+    onClick={[Function]}
+    title="Clear search"
+    type="button"
+  >
+    <span
+      className="jsx-3164519701 icon icon-close"
+    >
+      <svg
+        className="jsx-3164519701"
+        viewBox="0 0 32 32"
+      >
+        <path
+          className="jsx-3164519701"
+          d="M16.707 16l10.607 10.606-.708.707L16 16.707 5.394 27.313l-.708-.707L15.293 16 4.686 5.394l.708-.707L16 15.293 26.606 4.687l.708.707z"
+        />
+      </svg>
+    </span>
+  </button>
+</div>
+`;
