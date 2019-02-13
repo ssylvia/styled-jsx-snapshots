@@ -37,6 +37,6 @@
     "typescript": "^3.3.3"
   },
   "resolutions": {
-    "next/styled-jsx": "3.1.2"
+    "next/styled-jsx": "3.1.3"
   }
 }
